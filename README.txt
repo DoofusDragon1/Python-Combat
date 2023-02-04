@@ -1,0 +1,3 @@
+THIS IS A BASIC PYTHON COMBAT MINIGAME CREATED USING SLIGHT D&D MECHS
+
+feel free to add to this mini combat thing
